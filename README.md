@@ -1,6 +1,6 @@
 # Pandas
 
-Day - 1 :
+Day - 1 :</br>
 `.head() -> to return rows from start.`
 `.tail() -> to return rows from end.`
 `.set_index() -> set a column as index.`
